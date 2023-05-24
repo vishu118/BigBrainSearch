@@ -1,9 +1,9 @@
 import React from 'react'
 
-const  = () => {
+const Routes = () => {
   return (
-    <div></div>
+    <div>Hello</div>
   )
 }
 
-export default 
+export default Routes 
